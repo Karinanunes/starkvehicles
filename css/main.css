@@ -1178,11 +1178,12 @@ input::-moz-focus-inner {
 
 .home-slider-img {
   background-repeat: no-repeat;
-  background-position: 50% 50%;
+  background-position: center center;
   background-size: cover;
   height: 100vh;
 
 }
+
 
 .home-slider-img::before {
   display: block;
